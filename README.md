@@ -18,9 +18,6 @@
         Employed at Kasra Company since June 2019: I'm working as a Fullstack Web Developer at the
         Innovation Department of Kasra Company from June 2019.
     </p>
-    <p>
-        I'm working to be a Professional Software Analyzer & Designer at the end of 2021.
-    </p>
 </blockquote>
 
 <h2 align="center"><strong>Main Skills</h2>
